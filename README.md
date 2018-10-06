@@ -1,2 +1,2 @@
 # my_first_git
-project for git test
+project for testing how to use git
